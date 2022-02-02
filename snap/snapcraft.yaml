@@ -1,4 +1,4 @@
-name: glmark2-example
+name: simple-snap-xsw1
 version: '0.1'
 summary: GLMark2 IoT example kiosk
 description: GLMark2 IoT example kiosk, using Wayland
